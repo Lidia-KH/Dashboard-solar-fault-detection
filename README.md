@@ -34,7 +34,7 @@ The system combines machine learning models with a web-based dashboard to provid
 
 ### 1. Data Processing
 
-* Cleaning and preprocessing of NASA hystorical data
+* Cleaning and preprocessing of NASA historical data
 * Handling missing values and feature engineering
 * Time-series structuring for model training
 
