@@ -40,12 +40,12 @@ The system combines machine learning models with a web-based dashboard to provid
 
 ### 2. Power Prediction
 
-* Training time series models to forecast PV power output
+* Training time series models (benchmark LSTM, Bi-LSTM, Transformers, TFT) to forecast PV power output
 * Model evaluation using standard performance metrics
 
 ### 3. Fault Detection
 
-* Detecting anomalies based on deviations between predicted and actual values
+* Detecting anomalies based on deviations between predicted and actual values (alerts)
 * Identifying abnormal patterns indicating potential system faults
 
 ---
