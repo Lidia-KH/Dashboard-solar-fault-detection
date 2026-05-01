@@ -1,7 +1,7 @@
 # AI-Driven Photovoltaic Power Forecasting and Fault Detection
 
 > This repository accompanies a research project on deep learning-based photovoltaic (PV) forecasting and anomaly detection. (A manuscript based on this work is currently under review)
-<img width="500" alt="PowerSight-logo" src="https://github.com/user-attachments/assets/a7ca0c66-935f-4737-b02f-d13f4d5ca3fd" />
+<img width="10" alt="PowerSight-logo" src="https://github.com/user-attachments/assets/a7ca0c66-935f-4737-b02f-d13f4d5ca3fd" />
 
 ---
 
